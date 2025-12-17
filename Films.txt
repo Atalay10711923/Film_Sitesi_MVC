@@ -1,0 +1,99 @@
+The Shawshank Redemption|1994|9.3|Drama
+The Godfather|1972|9.2|Suç
+The Dark Knight|2008|9.0|Aksiyon
+The Godfather Part II|1974|9.0|Suç
+12 Angry Men|1957|9.0|Drama
+Schindler's List|1993|8.9|Biyografi
+The Lord of the Rings: The Return of the King|2003|8.9|Fantezi
+Pulp Fiction|1994|8.9|Suç
+The Lord of the Rings: The Fellowship of the Ring|2001|8.8|Fantezi
+The Good, the Bad and the Ugly|1966|8.8|Western
+Forrest Gump|1994|8.8|Drama
+Fight Club|1999|8.8|Drama
+Inception|2010|8.8|Bilim Kurgu
+The Lord of the Rings: The Two Towers|2002|8.7|Fantezi
+Star Wars: Episode V - The Empire Strikes Back|1980|8.7|Bilim Kurgu
+The Matrix|1999|8.7|Bilim Kurgu
+Goodfellas|1990|8.7|Biyografi
+One Flew Over the Cuckoo's Nest|1975|8.7|Drama
+Se7en|1995|8.6|Suç
+Seven Samurai|1954|8.6|Aksiyon
+It's a Wonderful Life|1946|8.6|Aile
+The Silence of the Lambs|1991|8.6|Gerilim
+City of God|2002|8.6|Suç
+Saving Private Ryan|1998|8.6|Savaş
+Life Is Beautiful|1997|8.6|Komedi
+Interstellar|2014|8.6|Bilim Kurgu
+The Green Mile|1999|8.6|Suç
+Star Wars: Episode IV - A New Hope|1977|8.6|Bilim Kurgu
+Terminator 2: Judgment Day|1991|8.5|Bilim Kurgu
+Back to the Future|1985|8.5|Bilim Kurgu
+Spirited Away|2001|8.5|Animasyon
+The Pianist|2002|8.5|Biyografi
+Psycho|1960|8.5|Korku
+Parasite|2019|8.5|Gerilim
+Leon: The Professional|1994|8.5|Suç
+The Lion King|1994|8.5|Animasyon
+Gladiator|2000|8.5|Aksiyon
+American History X|1998|8.5|Drama
+The Departed|2006|8.5|Suç
+Whiplash|2014|8.5|Drama
+The Prestige|2006|8.5|Gizem
+The Usual Suspects|1995|8.5|Suç
+Casablanca|1942|8.5|Romantik
+Grave of the Fireflies|1988|8.5|Animasyon
+Harakiri|1962|8.4|Aksiyon
+Modern Times|1936|8.4|Komedi
+Intouchables|2011|8.5|Biyografi
+Once Upon a Time in the West|1968|8.4|Western
+Cinema Paradiso|1988|8.4|Drama
+Rear Window|1954|8.4|Gizem
+Alien|1979|8.4|Bilim Kurgu
+Apocalypse Now|1979|8.4|Savaş
+Memento|2000|8.4|Gizem
+Indiana Jones and the Raiders of the Lost Ark|1981|8.4|Macera
+Django Unchained|2012|8.4|Western
+Wall-E|2008|8.4|Animasyon
+The Lives of Others|2006|8.4|Gerilim
+Sunset Blvd.|1950|8.4|Kara Film
+Paths of Glory|1957|8.4|Savaş
+The Shining|1980|8.4|Korku
+Avengers: Infinity War|2018|8.4|Aksiyon
+Witness for the Prosecution|1957|8.4|Gizem
+Spider-Man: Into the Spider-Verse|2018|8.4|Animasyon
+Oldboy|2003|8.4|Gizem
+Princess Mononoke|1997|8.4|Animasyon
+Dr. Strangelove|1964|8.4|Komedi
+The Dark Knight Rises|2012|8.4|Aksiyon
+Once Upon a Time in America|1984|8.3|Suç
+Aliens|1986|8.3|Bilim Kurgu
+Coco|2017|8.3|Animasyon
+Capernaum|2018|8.3|Drama
+Joker|2019|8.3|Suç
+American Beauty|1999|8.3|Drama
+Braveheart|1995|8.3|Biyografi
+Toy Story|1995|8.3|Animasyon
+Amelie|2001|8.3|Romantik
+Inglourious Basterds|2009|8.3|Savaş
+Good Will Hunting|1997|8.3|Drama
+Requiem for a Dream|2000|8.3|Drama
+A Clockwork Orange|1971|8.3|Bilim Kurgu
+Taxi Driver|1976|8.3|Suç
+Full Metal Jacket|1987|8.3|Savaş
+Scarface|1983|8.3|Suç
+Eternal Sunshine of the Spotless Mind|2004|8.3|Romantik
+2001: A Space Odyssey|1968|8.3|Bilim Kurgu
+Reservoir Dogs|1992|8.3|Suç
+Babam ve Oğlum|2005|8.2|Drama
+Eşkıya|1996|8.1|Suç
+Kış Uykusu|2014|8.1|Drama
+Her Şey Çok Güzel Olacak|1998|8.1|Komedi
+Pardon|2005|8.0|Komedi
+G.O.R.A.|2004|8.0|Bilim Kurgu
+Vizontele|2001|8.0|Komedi
+Selvi Boylum Al Yazmalım|1977|8.5|Romantik
+Hababam Sınıfı|1975|9.2|Komedi
+Tosun Paşa|1976|8.9|Komedi
+Süt Kardeşler|1976|8.8|Komedi
+Züğürt Ağa|1985|8.7|Dram
+Kibar Feyzo|1978|8.6|Komedi

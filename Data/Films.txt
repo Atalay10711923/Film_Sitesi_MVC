@@ -1,0 +1,203 @@
+The Shawshank Redemption|1994|9.3|Drama
+The Godfather|1972|9.2|Suç
+The Dark Knight|2008|9.0|Aksiyon
+The Godfather Part II|1974|9.0|Suç
+12 Angry Men|1957|9.0|Drama
+Schindler's List|1993|8.9|Biyografi
+The Lord of the Rings: The Return of the King|2003|8.9|Fantezi
+Pulp Fiction|1994|8.9|Suç
+The Lord of the Rings: The Fellowship of the Ring|2001|8.8|Fantezi
+The Good, the Bad and the Ugly|1966|8.8|Western
+Forrest Gump|1994|8.8|Drama
+Fight Club|1999|8.8|Drama
+Inception|2010|8.8|Bilim Kurgu
+The Lord of the Rings: The Two Towers|2002|8.7|Fantezi
+Star Wars: Episode V - The Empire Strikes Back|1980|8.7|Bilim Kurgu
+The Matrix|1999|8.7|Bilim Kurgu
+Goodfellas|1990|8.7|Biyografi
+One Flew Over the Cuckoo's Nest|1975|8.7|Drama
+Se7en|1995|8.6|Suç
+Seven Samurai|1954|8.6|Aksiyon
+It's a Wonderful Life|1946|8.6|Aile
+The Silence of the Lambs|1991|8.6|Gerilim
+City of God|2002|8.6|Suç
+Saving Private Ryan|1998|8.6|Savaş
+Life Is Beautiful|1997|8.6|Komedi
+Interstellar|2014|8.6|Bilim Kurgu
+The Green Mile|1999|8.6|Suç
+Star Wars: Episode IV - A New Hope|1977|8.6|Bilim Kurgu
+Terminator 2: Judgment Day|1991|8.5|Bilim Kurgu
+Back to the Future|1985|8.5|Bilim Kurgu
+Spirited Away|2001|8.5|Animasyon
+The Pianist|2002|8.5|Biyografi
+Psycho|1960|8.5|Korku
+Parasite|2019|8.5|Gerilim
+Leon: The Professional|1994|8.5|Suç
+The Lion King|1994|8.5|Animasyon
+Gladiator|2000|8.5|Aksiyon
+American History X|1998|8.5|Drama
+The Departed|2006|8.5|Suç
+Whiplash|2014|8.5|Drama
+The Prestige|2006|8.5|Gizem
+The Usual Suspects|1995|8.5|Suç
+Casablanca|1942|8.5|Romantik
+Grave of the Fireflies|1988|8.5|Animasyon
+Harakiri|1962|8.4|Aksiyon
+Modern Times|1936|8.4|Komedi
+Intouchables|2011|8.5|Biyografi
+Once Upon a Time in the West|1968|8.4|Western
+Cinema Paradiso|1988|8.4|Drama
+Rear Window|1954|8.4|Gizem
+Alien|1979|8.4|Bilim Kurgu
+Apocalypse Now|1979|8.4|Savaş
+Memento|2000|8.4|Gizem
+Indiana Jones and the Raiders of the Lost Ark|1981|8.4|Macera
+Django Unchained|2012|8.4|Western
+Wall-E|2008|8.4|Animasyon
+The Lives of Others|2006|8.4|Gerilim
+Sunset Blvd.|1950|8.4|Kara Film
+Paths of Glory|1957|8.4|Savaş
+The Shining|1980|8.4|Korku
+Avengers: Infinity War|2018|8.4|Aksiyon
+Witness for the Prosecution|1957|8.4|Gizem
+Spider-Man: Into the Spider-Verse|2018|8.4|Animasyon
+Oldboy|2003|8.4|Gizem
+Princess Mononoke|1997|8.4|Animasyon
+Dr. Strangelove|1964|8.4|Komedi
+The Dark Knight Rises|2012|8.4|Aksiyon
+Once Upon a Time in America|1984|8.3|Suç
+Aliens|1986|8.3|Bilim Kurgu
+Coco|2017|8.3|Animasyon
+Capernaum|2018|8.3|Drama
+Joker|2019|8.3|Suç
+American Beauty|1999|8.3|Drama
+Braveheart|1995|8.3|Biyografi
+Toy Story|1995|8.3|Animasyon
+Amelie|2001|8.3|Romantik
+Inglourious Basterds|2009|8.3|Savaş
+Good Will Hunting|1997|8.3|Drama
+Requiem for a Dream|2000|8.3|Drama
+A Clockwork Orange|1971|8.3|Bilim Kurgu
+Taxi Driver|1976|8.3|Suç
+Full Metal Jacket|1987|8.3|Savaş
+Scarface|1983|8.3|Suç
+Eternal Sunshine of the Spotless Mind|2004|8.3|Romantik
+2001: A Space Odyssey|1968|8.3|Bilim Kurgu
+Reservoir Dogs|1992|8.3|Suç
+Babam ve Oğlum|2005|8.2|Drama
+Eşkıya|1996|8.1|Suç
+Kış Uykusu|2014|8.1|Drama
+Her Şey Çok Güzel Olacak|1998|8.1|Komedi
+Pardon|2005|8.0|Komedi
+G.O.R.A.|2004|8.0|Bilim Kurgu
+Vizontele|2001|8.0|Komedi
+Selvi Boylum Al Yazmalım|1977|8.5|Romantik
+Hababam Sınıfı|1975|9.2|Komedi
+Tosun Paşa|1976|8.9|Komedi
+Süt Kardeşler|1976|8.8|Komedi
+Züğürt Ağa|1985|8.7|Dram
+Kibar Feyzo|1978|8.6|Komedi
+Lawrence of Arabia|1962|8.3|Macera
+North by Northwest|1959|8.3|Macera
+Vertigo|1958|8.3|Gizem
+Citizen Kane|1941|8.3|Gizem
+Amadeus|1984|8.4|Biyografi
+To Kill a Mockingbird|1962|8.3|Suç
+Full Metal Jacket|1987|8.3|Savaş
+The Sting|1973|8.3|Suç
+Bicycle Thieves|1948|8.3|Drama
+Snatch|2000|8.2|Suç
+A Separation|2011|8.3|Drama
+The Hunt|2012|8.3|Drama
+L.A. Confidential|1997|8.2|Suç
+For a Few Dollars More|1965|8.2|Western
+The Apartment|1960|8.3|Komedi
+Metropolis|1927|8.3|Bilim Kurgu
+Double Indemnity|1944|8.3|Kara Film
+Incendies|2010|8.3|Gizem
+Heat|1995|8.3|Suç
+Up|2009|8.3|Animasyon
+Toy Story 3|2010|8.3|Animasyon
+Batman Begins|2005|8.2|Aksiyon
+Green Book|2018|8.2|Biyografi
+Downfall|2004|8.2|Biyografi
+Die Hard|1988|8.2|Aksiyon
+Indiana Jones and the Last Crusade|1989|8.2|Macera
+Ran|1985|8.2|Aksiyon
+Rashomon|1950|8.2|Suç
+All About Eve|1950|8.2|Drama
+Yojimbo|1961|8.2|Aksiyon
+The Great Escape|1963|8.2|Macera
+Some Like It Hot|1959|8.2|Komedi
+Unforgiven|1992|8.2|Western
+Casino|1995|8.2|Suç
+Pan's Labyrinth|2006|8.2|Fantezi
+The Wolf of Wall Street|2013|8.2|Biyografi
+A Beautiful Mind|2001|8.2|Biyografi
+Lock, Stock and Two Smoking Barrels|1998|8.2|Suç
+The Secret in Their Eyes|2009|8.2|Gizem
+Howl's Moving Castle|2004|8.2|Animasyon
+Warrior|2011|8.2|Drama
+V for Vendetta|2005|8.2|Aksiyon
+The Elephant Man|1980|8.2|Biyografi
+Chinatown|1974|8.2|Gizem
+Raging Bull|1980|8.1|Biyografi
+Dial M for Murder|1954|8.1|Gerilim
+The Thing|1982|8.2|Korku
+Inside Out|2015|8.1|Animasyon
+Three Billboards Outside Ebbing, Missouri|2017|8.1|Drama
+Trainspotting|1996|8.1|Drama
+The Truman Show|1998|8.2|Komedi
+Fargo|1996|8.1|Suç
+Kill Bill: Vol. 1|2003|8.2|Aksiyon
+Jurassic Park|1993|8.2|Bilim Kurgu
+Finding Nemo|2003|8.2|Animasyon
+No Country for Old Men|2007|8.2|Suç
+There Will Be Blood|2007|8.2|Drama
+Shutter Island|2010|8.2|Gizem
+The Sixth Sense|1999|8.2|Gizem
+Prisoners|2013|8.1|Suç
+Mary and Max|2009|8.1|Animasyon
+Gone Girl|2014|8.1|Gizem
+Grand Budapest Hotel|2014|8.1|Komedi
+Blade Runner|1982|8.1|Bilim Kurgu
+The Big Lebowski|1998|8.1|Komedi
+12 Years a Slave|2013|8.1|Biyografi
+Mad Max: Fury Road|2015|8.1|Aksiyon
+Ford v Ferrari|2019|8.1|Biyografi
+Room|2015|8.1|Drama
+Spotlight|2015|8.1|Biyografi
+Logan|2017|8.1|Aksiyon
+Platoon|1986|8.1|Savaş
+Stand by Me|1986|8.1|Macera
+Rush|2013|8.1|Biyografi
+Hacksaw Ridge|2016|8.1|Savaş
+Into the Wild|2007|8.1|Biyografi
+My Neighbor Totoro|1988|8.1|Animasyon
+How to Train Your Dragon|2010|8.1|Animasyon
+Dune: Part One|2021|8.0|Bilim Kurgu
+Oppenheimer|2023|8.4|Biyografi
+Top Gun: Maverick|2022|8.3|Aksiyon
+Spider-Man: No Way Home|2021|8.2|Aksiyon
+Everything Everywhere All At Once|2022|7.9|Bilim Kurgu
+Barbie|2023|7.0|Komedi
+John Wick|2014|7.4|Aksiyon
+Bir Zamanlar Anadolu'da|2011|7.8|Suç
+Ahlat Ağacı|2018|8.0|Drama
+Kelebekler|2018|7.4|Komedi
+Organize İşler|2005|7.4|Komedi
+Yahşi Batı|2010|7.4|Komedi
+Gemide|1998|7.6|Drama
+Masumiyet|1997|8.2|Drama
+Kader|2006|7.9|Drama
+Duvara Karşı|2004|7.9|Romantik
+Ayla|2017|8.3|Biyografi
+Müslüm|2018|7.6|Biyografi
+Naim|2019|7.6|Biyografi
+Bizim İçin Şampiyon|2018|8.2|Biyografi
+Dedemin İnsanları|2011|8.0|Drama
+Av Mevsimi|2010|7.4|Suç
+Gora|2004|8.0|Bilim Kurgu
+Arog|2008|7.3|Bilim Kurgu
+Limonata|2015|7.5|Komedi
+Ölümlü Dünya|2018|7.6|Komedi

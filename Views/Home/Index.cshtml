@@ -1,0 +1,121 @@
+﻿@using Film_Sitesi_MVC.Models
+@model List<Film>
+
+@{
+    ViewData["Title"] = "Film Kütüphanesi";
+}
+
+<div class="container mt-4">
+
+    @if (TempData["BilgiMesaji"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["BilgiMesaji"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (ViewBag.Mesaj != null)
+    {
+        <div class="alert alert-warning" role="alert">
+            @ViewBag.Mesaj
+            <a href="@Url.Action("Index", "Home")" class="alert-link">Tüm listeyi görmek için tıklayın.</a>
+        </div>
+    }
+
+    <div class="row mb-4 align-items-center">
+        <div class="col-md-6">
+            <h1 class="display-6">🎬 Film Arşivi</h1>
+        </div>
+        <div class="col-md-6">
+            <form asp-action="Index" method="post" class="d-flex gap-2">
+                <input type="text" name="aranankelime" class="form-control" placeholder="Film adı giriniz..." required />
+                <button type="submit" class="btn btn-outline-primary">Ara</button>
+                <a href="@Url.Action("Index")" class="btn btn-outline-secondary">Sıfırla</a>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="card-title mb-0">+ Yeni Film Ekle</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="ekle" method="post">
+                        <div class="mb-3">
+                            <label class="form-label">Film Adı</label>
+                            <input type="text" name="Ad" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Yapım Yılı</label>
+                            <input type="number" name="Yil" class="form-control" placeholder="2023" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">IMDb Puanı</label>
+                            <input type="text" name="puan" class="form-control" placeholder="8,5" required />
+                            <small class="text-muted">Virgül kullanınız.</small>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Tür</label>
+                            <input type="text" name="Tur" class="form-control" placeholder="Bilim Kurgu" required />
+                        </div>
+                        <button type="submit" class="btn btn-success w-100">Veritabanına Kaydet</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-dark text-white">
+                    <h5 class="card-title mb-0">Mevcut Filmler</h5>
+                </div>
+                <div class="card-body p-0">
+                    <table class="table table-hover table-striped mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Film Adı</th>
+                                <th>Yıl</th>
+                                <th>Puan</th>
+                                <th>Tür</th>
+                                <th style="width: 100px;">İşlem</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Count > 0)
+                            {
+                                foreach (var film in Model)
+                                {
+                                    <tr>
+                                        <td class="fw-bold">@film.Ad</td>
+                                        <td>@film.Yil</td>
+                                        <td><span class="badge bg-warning text-dark">@film.puan</span></td>
+                                        <td>@film.Tur</td>
+                                        <td>
+                                            <form asp-action="Sil" method="post" onsubmit="return confirm('Bu filmi silmek istediğinize emin misiniz?');">
+                                                <input type="hidden" name="silinecekAd" value="@film.Ad" />
+                                                <button type="submit" class="btn btn-sm btn-danger">
+                                                    Sil 🗑️
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="5" class="text-center py-4 text-muted">
+                                        Listenizde hiç film yok veya aramanızla eşleşen sonuç bulunamadı.
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
