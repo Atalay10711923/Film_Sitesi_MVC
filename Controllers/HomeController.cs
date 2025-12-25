@@ -93,13 +93,11 @@ namespace Film_Sitesi_MVC.Controllers
         [HttpPost]
         public IActionResult Sil(string silinecekAd)
         {
-            // 1. Senin yazdığın Silme algoritmasını çağırıyoruz
+            
             string sonucMesaji = Film_Agacı.FilmSil(silinecekAd);
 
-            // 2. Metodun döndürdüğü "Silindi" veya "Bulunamadı" mesajını ekrana basmak için TempData kullanıyoruz
             TempData["BilgiMesaji"] = sonucMesaji;
 
-            // 3. Listeyi güncellemek için Index'e geri dönüyoruz
             return RedirectToAction("Index");
         }
     }

@@ -33,6 +33,28 @@ namespace Film_Sitesi_MVC.Data_Structures
 
             return DugumAra(kök, aranacak_isim);
         }
+        private Film DugumAra(FilmNode mevcut, string aranacak_isim)
+        {
+            if (mevcut == null) return null;
+
+            int karsilastirma = string.Compare(mevcut.Data.Ad, aranacak_isim, StringComparison.OrdinalIgnoreCase);
+
+            if (karsilastirma == 0)
+            {
+                return mevcut.Data;
+            }
+            else if (karsilastirma < 0)
+            {
+                return DugumAra(mevcut.sağ, aranacak_isim);
+            }
+            else
+            {
+                return DugumAra(mevcut.sol, aranacak_isim);
+            }
+
+
+
+        }
         public string FilmSil(string silinecek_isim)
         {
             
@@ -132,28 +154,7 @@ namespace Film_Sitesi_MVC.Data_Structures
 
 
         
-        private Film DugumAra(FilmNode mevcut , string aranacak_isim)
-        {
-            if (mevcut == null) return null;
-
-            int karsilastirma = string.Compare(mevcut.Data.Ad, aranacak_isim, StringComparison.OrdinalIgnoreCase);
-
-            if (karsilastirma == 0)
-            {
-                return mevcut.Data;
-            }
-            else if (karsilastirma < 0)
-            {
-                return DugumAra(mevcut.sağ, aranacak_isim);
-            }
-            else
-            {
-                return DugumAra(mevcut.sol, aranacak_isim);
-            }
-          
-
-
-        }
+        
         public void Ekle(Film Yenifilm)
         {
             FilmNode YeniDüğüm = new FilmNode(Yenifilm);
